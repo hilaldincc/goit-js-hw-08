@@ -2,6 +2,7 @@ body {
   margin: 0;
   padding: 156px 24px;
   background-color: #fff;
+  max-width: 1128px;
 }
 
 .gallery {
@@ -12,7 +13,8 @@ body {
   list-style: none;
   padding: 0;
   margin: 0 auto;
-  max-width: 1128px;
+  justify-content: space-between;
+  max-width: 100%;
   box-sizing: border-box;
 }
 
